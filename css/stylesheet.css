@@ -3,3 +3,13 @@ body{
     padding:0;
     background:#ffffff;
     }
+
+.gmap{
+    width:1200px;    
+    margin:0 auto;
+}
+
+.gmap iframe{
+    width:100%;
+    height: 400px;
+    }
